@@ -1,0 +1,17 @@
+a
+{
+transition: 1s;
+color: blue;
+font-size: medium;
+}
+
+a:hover
+{
+color: aquamarine;
+font-size: xx-large;
+}
+
+body
+{
+background-color: blanchedalmond;
+}
